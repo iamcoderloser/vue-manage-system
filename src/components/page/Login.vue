@@ -1,5 +1,6 @@
 <template>
     <div class="login-wrap">
+        <div style="font-size:14px;padding:8px;color:#666;">beta</div>
         <div class="ms-login">
             <div class="ms-title">后台管理系统</div>
             <el-form :model="param" :rules="rules" ref="login" label-width="0px" class="ms-content">
