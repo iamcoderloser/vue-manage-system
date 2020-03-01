@@ -1,6 +1,6 @@
 <template>
     <div class="login-wrap">
-        <div style="font-size:14px;padding:8px;color:#666;">如果没有他，你还爱我！</div>
+        <div style="font-size:14px;padding:8px;color:#666;">如果没有他，你还爱我！ --- 六折</div>
         <div class="ms-login">
             <div class="ms-title">后台管理系统</div>
             <el-form :model="param" :rules="rules" ref="login" label-width="0px" class="ms-content">
